@@ -79,7 +79,7 @@
 ![image](/images/image20.PNG)
 ## -87 38 40
 ![image](/images/image18.PNG)
-## 49 34 26
+## -49 34 26
 ![image](/images/image22.PNG)
 ## 14 20 -32
 ![image](/images/image38.PNG)

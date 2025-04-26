@@ -28,7 +28,7 @@
 ## 3 83 -42
 ![image](/images/image2.PNG)
 ## 26 86 -37
-![image](/images/image6.png)
+![image](/images/image6.PNG)
 ## 25 86 34
 ![image](/images/image5.PNG)
 ## 0 91 -28
